@@ -33,3 +33,5 @@ frontend:
 ```
 
 - Once this is done, the build and deploy process should complete successfully.
+
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Jay2113/amplify-vite)
